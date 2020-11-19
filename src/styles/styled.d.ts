@@ -1,4 +1,4 @@
-/* eslint @type-script-eslint/no-enpty-interface: "of" */
+/* eslint @type-script-eslint/no-empty-interface: "of" */
 import 'styled-components'
 
 import theme from './theme'
