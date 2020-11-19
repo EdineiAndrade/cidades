@@ -31,7 +31,7 @@ const Home: React.FC = () => {
         <img src={VTC} alt="Avenida Olivia Flores Vitória da Conquista"/>
 
         <p>Feira de Santana</p>
-        <img src={FeiradeSantana} alt="Feira de Santana"/>
+        <img src={FeiradeSantana} alt="Feira de Santana Bahia"/>
 
         <p>Bom Jesus da Lapa</p>
         <img src={BomJesusLapa} alt="Capela Bom Jessua da Lapa"/>
